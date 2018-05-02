@@ -23,6 +23,8 @@ gem 'jbuilder', '~> 2.5'
 
 # Install bootstrap for rails
 gem 'bootstrap', '~> 4.1.1'
+# inswtall devise authentication
+gem 'devise'
 
 gem 'jquery-rails'
 
